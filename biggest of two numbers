@@ -1,0 +1,11 @@
+program:
+a = float(input(" Enter the First Value a: ")) 
+b = float(input(" Enter the Second Value b: ")) 
+if a > b: 
+    print(a, "is greater ") 
+elseif b > a: 
+    print(b, "is greater") 
+    output:
+   enter the first value a: 10
+   enter the second value b: 20
+   20.0  is greater
